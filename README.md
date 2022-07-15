@@ -1,4 +1,4 @@
-# Working directory
+# Working Directory
 - Area where all or files and directories and changes are living all the time
 
 # Staging Area
